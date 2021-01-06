@@ -1,8 +1,7 @@
 :root {
     --blue: #1e90ff;
+    --black:#030303;
     --white: #ffffff;
+    --bg-body:url("../image/star-wars-backgrounds-25.jpg");
   }
-
-  body {
-      background: var(--blue);
-  }
+  
